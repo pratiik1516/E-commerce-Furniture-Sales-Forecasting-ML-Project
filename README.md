@@ -1,4 +1,4 @@
-# 🛋️ E-commerce Furniture Dataset 2024 – Sales Prediction & Analysis
+# 🛋️ E-commerce Furniture Sales Forecasting – ML Project
 
 This project involves data analysis and predictive modeling on a furniture dataset scraped from AliExpress to forecast product sales, uncover pricing insights, and identify trends in online consumer behavior.
 
